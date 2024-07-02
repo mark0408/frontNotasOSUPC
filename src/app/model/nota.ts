@@ -1,4 +1,4 @@
-export class Product {
+export class nota {
     codigo: number;
     descripcion: string;
     precio: number;
